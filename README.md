@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Logo](https://i.ibb.co/ynwZBxh/logo.png)
 [![GitHub stars](https://img.shields.io/github/stars/Eagl3Eyes/summer-camp-client-side?style=for-the-badge)](https://github.com/Eagl3Eyes/summer-camp-client-side/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Eagl3Eyes/summer-camp-client-side?style=for-the-badge)](https://github.com/Eagl3Eyes/summer-camp-client-side/network)
 [![GitHub issues](https://img.shields.io/github/issues/Eagl3Eyes/summer-camp-client-side?style=for-the-badge)](https://github.com/Eagl3Eyes/summer-camp-client-side/issues)
